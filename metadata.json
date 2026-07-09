@@ -1,6 +1,6 @@
 {
-  "name": "Velorah",
-  "description": "Cinematic tools for deep thinkers and bold creators.",
+  "name": "Reportli AI",
+  "description": "Your AI agent that never misses a bug. Monitors your SaaS 24/7, catches every error instantly, and helps you fix issues before they impact your users.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
